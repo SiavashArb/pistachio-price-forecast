@@ -77,3 +77,12 @@ New Input:
 
 💰 Forecasted Price: $X.XX
 
+├── Book1.csv               # Dataset
+├── pistachio_price_model.py  # Main model code
+├── README.md               # Project description
+
+👤 Author
+Siavash Babi
+📧 siarbabi@ttu.edu
+🎓 Texas Tech University – MS in Data Science (2025)
+🔗 LinkedIn (linkedin.com/in/siavash-arbabi)
