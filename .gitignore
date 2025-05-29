@@ -172,3 +172,9 @@ cython_debug/
 
 # PyPI configuration file
 .pypirc
+# Custom for this project
+*.csv             # Ignore raw data files
+*.xlsx            # Ignore Excel data
+/output/          # Folder for plots or results
+/logs/            # Any logs
+/secrets.json     # If using any config keys
